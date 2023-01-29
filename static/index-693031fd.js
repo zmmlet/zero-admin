@@ -1,0 +1,1 @@
+import{_ as t}from"./_plugin-vue_export-helper-1b428a4d.js";import{V as e,a1 as o}from"./vue-108bee2e.js";const r={class:"layout-content"};const s=t({},[["render",function(t,s){return e(),o("div",r,"修改当前用户密码")}]]);export{s as default};
