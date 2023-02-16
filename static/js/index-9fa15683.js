@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper-1b428a4d.js";import{V as t,a1 as r}from"./vue-d59f5a4d.js";const o={class:"layout-content"};const s=e({},[["render",function(e,s){return t(),r("div",o,"tree")}]]);export{s as default};

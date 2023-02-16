@@ -1,0 +1,1 @@
+System.register(["./_plugin-vue_export-helper-legacy-762b7923.js","./vue-legacy-8dfae8d8.js"],(function(e,t){"use strict";var n,r,u;return{setters:[e=>{n=e._},e=>{r=e.V,u=e.a1}],execute:function(){/* unplugin-vue-components disabled */const t={class:"layout-content"};e("default",n({},[["render",function(e,n){return r(),u("div",t,"部门管理")}]]))}}}));

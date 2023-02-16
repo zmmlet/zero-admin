@@ -1,0 +1,1 @@
+System.register(["./antd-legacy-c0da7948.js","./vue-legacy-8dfae8d8.js"],(function(e,t){"use strict";var n,r;return{setters:[e=>{n=e.I},e=>{r=e.v}],execute:function(){e("I",(e=>{const{icon:t}=e;return r(n[t])}))}}}));

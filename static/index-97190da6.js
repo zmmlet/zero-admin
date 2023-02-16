@@ -1,1 +1,0 @@
-import{_ as t}from"./_plugin-vue_export-helper-1b428a4d.js";import{V as e,a1 as o}from"./vue-108bee2e.js";const r={class:"layout-content"};const s=t({},[["render",function(t,s){return e(),o("div",r,"部门管理")}]]);export{s as default};
